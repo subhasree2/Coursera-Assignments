@@ -32,4 +32,6 @@ body {
 } 
 .col-md-12, .col-xs-12, .col-lg-12{
 	overflow: hidden; 
-}
+} 
+.col-xs-12{
+	margin-right: 50px;}
