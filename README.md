@@ -2,7 +2,7 @@
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
-# Assignments :
+# Knowledge Map :
 
 * Module-1 - HTML Quiz 
 * Module-2 - CSS Styling
@@ -11,7 +11,7 @@ This repository contains all of the source code used in the course called HTML, 
 * Module-5 - Coding
 
 
-# Outputs :
+# Assignments :
 
 * [Module-2](https://subhasree2.github.io/Coursera-Assignments/mod2_solution/)
 * [Module-3](https://subhasree2.github.io/Coursera-Assignments/mod3_solution/)
