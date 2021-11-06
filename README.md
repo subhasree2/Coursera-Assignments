@@ -4,7 +4,7 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Knowledge Map :
 
-* Module-1 - HTML Quiz 
+* Module-1 - HTML
 * Module-2 - CSS Styling
 * Module-3 - Responsive Web Design and Styling of Navigation bar
 * Module-4 - JavaScript Console
